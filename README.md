@@ -19,10 +19,10 @@ I'd appreciate any feedback or suggestions
 ![Overview](02_Overview.png)
 
 ### 3. Web Funnel Analysis
-![Web Funnel](03_Web_Funnel.png)
+![Web Funnel](03_Web%20Funnel.png)
 
 ### 4. Financials & Return
-![Financials & Return](04_Financials_&_Return.png)
+![Financials & Return](04_Financials_%20&%20Return.png)
 
 ### 5. Inventory & Forecast
-![Inventory & Forecast](05_Inventory_&_Forecast.png)
+![Inventory & Forecast](05_Inventory%20&%20Forecast.png)
